@@ -1,7 +1,0 @@
-This is git demo. this is a new line again. let us try to commit it.
-
-
-This is my second line.
-this is my third line.
-this is my fourth line.
-this is my fifth line. 
